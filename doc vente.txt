@@ -1,0 +1,43 @@
+Description
+
+Le kit comprend une paire de modules d'émetteur et de récepteur et une paire d'antennes à ressort pour augmenter la distance de communication. Et la fréquence est de 315 MHz. Il est très populaire pour les systèmes de contrôle à distance, tels que sonnette sans fil, portails roulants télécommandés, voiture intelligente, maison intelligente, etc.
+
+À propos du module émetteur (module carré embarqué)
+
+-Compatible avec Arduino
+
+-Bibliothèque Arduino: VirtualWire
+
+-Tension de fonctionnement: 4-12VDC
+
+-Courant de fonctionnement: 40mA
+
+-Puissance de transmission: 27dBm @ 12 V (grande puissance)
+
+-Fréquence de fonctionnement: 315 MHz
+
+-Taux de transfert: 4.8 kbps (max)
+
+-Distance de Transmission: lorsque la puissance d'alimentation est de 5 V, la distance de transmission en zone ouverte peut être augmentée à 150 mètres. La tension d'alimentation est plus grande, la distance de transmission plus loin.
+
+-Antenne: antenne PCB dédiée 315 MHz embarquée.
+
+ 
+
+À propos du module récepteur (forme rectangle):
+
+-Compatible avec Arduino
+
+-Bibliothèque Arduino: VirtualWire
+
+-Tension de fonctionnement: 2-5.5VDC
+
+-Fréquence de fonctionnement: 315 MHz
+
+-Courant de fonctionnement: 2mA
+
+-Sensibilité:-110db
+
+-Antenne: antenne PCB dédiée 315 MHz embarquée
+
+-Idéal pour le projet de bricolage.
